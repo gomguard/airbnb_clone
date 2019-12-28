@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\gomguard\\.virtualenvs\\airbnb_clone-h1jwa0uK\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "python.linting.flake8Args": [
+        "--max-line-length=88"
+    ]
+}
